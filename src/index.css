@@ -45,3 +45,20 @@
 .each-card p span {
   font-weight: bold;
 }
+
+.label {
+  border: solid 1px;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+  font-size: small;
+}
+
+.greatDeal-btn {
+  background-color: green;
+}
+
+.premium-btn, .allInclusive-btn {
+  background-color: blue;
+}
+
